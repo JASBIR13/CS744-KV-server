@@ -1,0 +1,2 @@
+add_executable(interactive_client interactive_client.cpp)
+target_link_libraries(interactive_client pthread)
